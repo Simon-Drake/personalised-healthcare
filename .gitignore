@@ -1,0 +1,37 @@
+# Personal genetic and health information - DO NOT COMMIT
+genetic_analysis_output.txt
+genetic_prompt.txt
+
+# Personalized treatment files with personal case details
+personalized_treatment_protocol.md
+shopping_list_month_1.csv
+shopping_list_phase_2_additions.csv
+tracking_template.csv
+exercise_program_phase_1.md
+exercise_program_phase_2.md
+exercise_program_phase_3_4.md
+provider_criteria.md
+decision_trees.md
+equipment_list.csv
+
+# Any personal tracking or notes
+*_personal.md
+*_tracking.csv
+my_*.md
+my_*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
+*.swp
+*.tmp
+
+# Directories with additional research or personal data
+joint hypermobility ligament tightening regenerative/
+regenerative injection therapy joint hypermobility/
+.claude/
