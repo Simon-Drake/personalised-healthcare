@@ -1,0 +1,110 @@
+DEEP RESEARCH REQUEST: Prolotherapy, PRP, and Peptide Therapies for Hypermobile Joint Instability
+
+CLINICAL CONTEXT:
+32M with hypermobility and progressive joint deterioration:
+- Right wrist: Severe instability post-2 surgeries, carpal bone malalignment, chronic clunking, nerve symptoms
+- Left wrist: Attenuated ligaments, early instability  
+- Thoracolumbar spine: Iatrogenic instability T11-L2 region (lateral/rotational), global instability from chiropractic injury
+- Lower lumbar: L4/L5 pain on flexion
+- All imaging (MRI, X-ray) clear - functional instability not visible
+- Progression: Healthy back 1 year ago → now severely limited
+- Failed treatments: 2 wrist surgeries, conventional PT
+
+GENETIC CONSTRAINTS:
+- MTHFR C677T + A1298C (impaired methylation/collagen crosslinking)
+- TCN2 HOMOZYGOUS (severe B12 transport deficiency)
+- IL-6 HOMOZYGOUS (high baseline inflammation)
+- GPX1 HOMOZYGOUS (oxidative stress vulnerability)
+- VDR HOMOZYGOUS (altered vitamin D signaling)
+- PPARGC1A heterozygous (reduced mitochondrial function)
+
+RESEARCH OBJECTIVES:
+
+1. Prolotherapy Protocols for Ligament Laxity
+   - Solution types: dextrose concentration (12.5%? 15%? 25%?)
+   - Additives: lidocaine, procaine, other agents
+   - Injection frequency: weekly? bi-weekly? monthly?
+   - Treatment duration: typical course length
+   - Success rates in hypermobile vs general populations
+   - Specific outcomes: wrist ligaments vs spinal ligaments
+   - Does MTHFR/methylation impairment reduce prolotherapy effectiveness?
+   - Modifications for high baseline inflammation (IL-6)?
+   - Contraindications or precautions
+   - Pre/post-treatment protocols (activity restriction, supplements)
+
+2. PRP (Platelet-Rich Plasma) for Connective Tissue
+   - Preparation protocols: single vs double spin, platelet concentration targets
+   - Leukocyte-rich (L-PRP) vs leukocyte-poor (LP-PRP) for ligaments
+   - Activation: calcium chloride, thrombin, or non-activated?
+   - Evidence in ligament laxity vs acute ligament tears
+   - Outcomes in hypermobile patients specifically
+   - Cost-effectiveness vs prolotherapy
+   - Combination protocols: PRP + prolotherapy
+   - Frequency and treatment course
+
+3. Peptide Therapies for Tissue Repair
+   - BPC-157: dosing (mcg), route (oral, subcutaneous, injection site), duration
+   - TB-500 (Thymosin Beta-4): protocols for connective tissue repair
+   - Evidence quality: animal studies vs human trials
+   - Mechanism: how do these peptides promote healing?
+   - Safety profile and known side effects
+   - Legal/regulatory status (varies by country)
+   - Effectiveness for chronic laxity vs acute injury
+   - Can peptides help post-surgical instability?
+
+4. Comparative Effectiveness
+   - Prolotherapy vs PRP vs peptides: which works best for what?
+   - Combination approaches: synergistic effects?
+   - Cost comparison and accessibility
+   - Timeline to results for each modality
+   - Failure rates and why treatments fail
+
+5. Wrist-Specific Protocols
+   - Which wrist ligaments to target: scapholunate, lunotriquetral, TFCC?
+   - Injection techniques and approaches
+   - Post-surgical instability: can regenerative therapies help?
+   - Evidence for carpal bone malalignment correction
+   - Ultrasound-guided vs palpation-guided injections
+
+6. Spine-Specific Protocols
+   - Thoracolumbar facet joint injections
+   - Interspinous ligament prolotherapy
+   - Sacroiliac joint protocols
+   - Evidence for functional instability (vs structural damage)
+   - Safety considerations for spinal injections
+
+7. Nutritional Co-Interventions
+   - Should vitamin C, lysine, proline be supplemented during treatment?
+   - Does B12/folate status affect healing response?
+   - Anti-inflammatory during healing: help or hinder?
+   - Timing: when to start, how long to continue
+
+8. Patient Selection & Predictors
+   - Who responds best to each therapy?
+   - Are there genetic predictors of response?
+   - Age factors, chronicity factors
+   - Can you predict non-responders?
+
+9. Novel Approaches
+   - Stem cell therapies for ligament laxity
+   - Exosomes or growth factors
+   - Emerging regenerative protocols
+   - International differences in practice
+
+10. Evidence Synthesis
+    - Quality of evidence for each modality
+    - What's proven vs experimental
+    - Gaps in research
+    - What studies are needed
+
+OUTPUT REQUIREMENTS:
+- Cite specific studies and protocols
+- Provide actual treatment parameters (doses, frequencies, techniques)
+- Evidence quality rating for each claim
+- Note hypermobile-specific evidence vs general populations
+- Flag safety concerns or contraindications
+- Include cost and accessibility considerations
+- Realistic timeline expectations
+- What to try first, second-line options
+
+CRITICAL: Focus on chronic ligament laxity (not acute injuries) and hypermobile populations where available.
